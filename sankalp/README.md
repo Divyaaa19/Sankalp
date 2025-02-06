@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+  Sankalp is a comprehensive platform aimed at reducing poverty and promoting
+ economic growth by leveraging technology and community collaboration. It
+ connects individuals with financial resources, knowledge, and needs, providing
+ tools for expense management, direct marketplace access, and NGO support. The
+ platform incentivizes collaboration through reward systems and ensures inclusivity
+ with AI-driven chatbots, personalized suggestions and multi-language support. By
+ eliminating intermediaries, enhancing accessibility, and fostering mutual assistance,
+ Sankalp empowers communities to achieve financial self-reliance and drive
+ sustainable development
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ Core Features:
+                  -Expense Management Tools: For investors to track and manage their             
+                    investors
+                  -Reward System: Reward points for skilled individuals assisting                                              
+                    underprivileged groups
+                  -Direct Marketplace: Allow underprivileged groups to sell their products 
+                    directly without intermediaries.
+                  -NGO Connectivity: Facilitate connections between users and NGOs for
+                    resources and support
+ AI Integration:
+               -AI chatbot to guide users in accessing financial schemes and
+                 providing suggestions tailored to individual needs.
+               -AI-powered analytics to recommend profitable investment
+                 opportunities and effective financial management strategies.
+ Platform Accessibility:
+               -Multi-language support for inclusivity.
+               -Friendly user interface
+![Home Page](https://github.com/user-attachments/assets/61c368ca-27ef-45b9-87da-456efb2e9342)
+![Opportunities](https://github.com/user-attachments/assets/93a17801-4a83-4592-80ae-598f667262ae)
+![Schemes](https://github.com/user-attachments/assets/4ab1cedf-148f-44dc-b814-e03b144aef3f)
+![Hands on service](https://github.com/user-attachments/assets/de1b2fef-38d8-4918-a872-a3b03bbb9ec0)
+![Hands on service-get service](https://github.com/user-attachments/assets/9ed9f2f1-f569-4f20-80e6-8c1ac9977a60)
+![Opportunities](https://github.com/user-attachments/assets/05efc973-126b-4a4d-9cfa-7b2d99202064)
+![Expense Calculator](https://github.com/user-attachments/assets/03cc9c58-5205-472a-a23b-12a12b6faa94)
