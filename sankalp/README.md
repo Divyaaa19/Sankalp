@@ -27,9 +27,24 @@
                -Multi-language support for inclusivity.
                -Friendly user interface
 ![Home Page](https://github.com/user-attachments/assets/61c368ca-27ef-45b9-87da-456efb2e9342)
+
+
 ![Opportunities](https://github.com/user-attachments/assets/93a17801-4a83-4592-80ae-598f667262ae)
+
+
 ![Schemes](https://github.com/user-attachments/assets/4ab1cedf-148f-44dc-b814-e03b144aef3f)
+
+
 ![Hands on service](https://github.com/user-attachments/assets/de1b2fef-38d8-4918-a872-a3b03bbb9ec0)
+
+
 ![Hands on service-get service](https://github.com/user-attachments/assets/9ed9f2f1-f569-4f20-80e6-8c1ac9977a60)
-![Opportunities](https://github.com/user-attachments/assets/05efc973-126b-4a4d-9cfa-7b2d99202064)
+
+
 ![Expense Calculator](https://github.com/user-attachments/assets/03cc9c58-5205-472a-a23b-12a12b6faa94)
+
+
+![Opportunities](https://github.com/user-attachments/assets/05efc973-126b-4a4d-9cfa-7b2d99202064)
+
+
+
