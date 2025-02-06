@@ -18,11 +18,16 @@
                     directly without intermediaries.
                   -NGO Connectivity: Facilitate connections between users and NGOs for
                     resources and support
+
+
+                    
  AI Integration:
                -AI chatbot to guide users in accessing financial schemes and
                  providing suggestions tailored to individual needs.
                -AI-powered analytics to recommend profitable investment
                  opportunities and effective financial management strategies.
+
+                 
  Platform Accessibility:
                -Multi-language support for inclusivity.
                -Friendly user interface
